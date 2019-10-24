@@ -1,0 +1,129 @@
+/* this is my comment in css */
+a{
+    color: black;
+    font-size: 20px;
+}
+a:hover{
+    background-color: black;
+    color: white;
+}
+a:focus{
+    background-color: black;
+}
+
+
+  *{
+    margin: 0px;
+    padding: 0px;
+  }
+  @media all and (max-width: 400px) {
+    
+iframe{
+  max-width: 400px !important;
+  max-height: 500px !important;
+}
+
+
+div.col-3{
+  margin-left: 0px;
+  margin-right: 10px;
+}
+   li>h1{
+     font-size: 5px !important;
+   }
+   a.nav-link{
+     font-size: 5px !important;
+   }
+  div.col-7{
+    font-size: 6px !important;
+  }
+   
+   
+    img{
+      width: 35px !important;
+      height: 35px !important;
+
+    }
+   figure{
+     font-size: 3px;
+   }
+   figure>figcaption>b{
+     font-size: 5px;
+   }
+   a.btn btn-primary{
+     
+     size: 0px !important;
+     font-size: 0px !important;
+     margin-right: 5px;
+   }
+   b{
+    font-size: 5px !important;
+    
+  }
+  p{
+    border: none;
+  }
+  }
+
+  
+  @media all and (max-width: 700px) {
+   img{
+      width: 50px !important;
+      height: 50px !important;
+    }
+    iframe{
+      max-width: 400px !important;
+      max-height: 500px !important;
+    }
+
+    li>h1{
+      font-size: 10px !important;
+    }
+    a.nav-link{
+      font-size: 8px !important;
+    }
+   div.col-7{
+     font-size: 15px !important;
+   }
+    
+    
+    
+     img{
+       width: 35px;
+       height: 35px;
+ 
+     }
+     img{
+      width: 50px !important;
+      height: 50px !important;
+    }
+    figure{
+      font-size: 5px;
+    }
+    figure>figcaption>b{
+      font-size: 5px;
+    }
+    a.btn{
+      
+      size: 3px !important;
+      font-size: 3px !important;
+    }
+    b{
+      font-size: 5px !important;
+    }
+   }
+
+
+
+
+
+
+
+
+
+   
+   div.col-7{
+     font-size: 35px;
+     color: white;
+   }
+ 
